@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "TargetProxy.h"
 
 @interface ViewController ()
 
