@@ -1,4 +1,4 @@
-# CTMediator
+# CTMediator demo
 
 #### 组件化
 
