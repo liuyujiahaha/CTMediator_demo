@@ -1,9 +1,9 @@
 //
 //  main.m
-//  note
+//  YT_TargetAction
 //
-//  Created by liuyujia on 2018/12/24.
-//  Copyright © 2018 liuyujia. All rights reserved.
+//  Created by yehao on 16/9/14.
+//  Copyright © 2016年 yehot. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
